@@ -1,3 +1,5 @@
-Melina Delgado Website
+#Melina#
 
-A personal website.
+A personal website for Melina Delgado, Yale 2019.
+
+Link: https://melina-delgado.github.io/melina/
